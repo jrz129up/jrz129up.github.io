@@ -41,14 +41,12 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
 - *2022.09 - 2025.06(expected)*, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/Renmin_University_of_China_logo.svg" width="21pt"></a> Renmin University of China, School of Agricultural Economics and Rural Development, M.A., in Rural Development
 - *2018.09 - 2022.06*, <a href="https://www.bjtu.edu.cn/"><img class="svg" src="/BJTU_emblem.svg" width="21pt"></a> Beijing Jiaotong University, School of Economics and Management, B.A., in Economics
 <br>
-<br>
 <span class='anchor' id='-lw'></span>
 
 # 📝 Publications
 
 - 	JJ Jiao, QL Zhang, YY Wu, **Runze Jiang**, JE Wang. (2021). Change and Influencing Factors of China's Cross-regional Investment Network Structure. Progress in Geography. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpYllT2xqHJRoxXcKTqVmXr4DtD6ltlH0CYLHwYvyjgm5ybiN0I3myBH_17MYu1KmSN1ftxJqErAFzasLI2IVRl5E5TScazfT91ACYsGHIvu6mYIRAMLyZ1H1MBs-DnPZzWetM5qrWazQ==&uniplatform=NZKPT&language=CHS)
 
-<br>
 - 	Chao Wang, **Runze Jiang** et al. (2020). Optimization Strategies for the Beijing Subway Fare System. China Transportation Review. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdrdk-T8GIsXuASAVU4iqRt6ZFgldxcDvkNnq-P4MpAAvTu-ilkeUUBW9tyJwd7-F03_h2QJeyfI7w57IX-5-dedSRwFEZknT9S4DpWXoLVtM6JNqpCfcCpEg3hhInWU56GEOwAOXae-1A==&uniplatform=NZKPT&language=CHS)
 
 <br>
@@ -80,7 +78,7 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
     - This comparison will not only demonstrate which resource allocation method is superior in the field of public behavior but also, on a more macro level, argue the merits and drawbacks of different systems
    
 <br>
-- **Runze Jiang**.A Taste: A No-frills Data Processing Manual for Social Science Research
+- **Runze Jiang**. A Taste: A No-frills Data Processing Manual for Social Science Research
   - The initial intent behind writing this manual is to provide a simplified understanding of computers, document the data processing procedures in social science research, and summarize experiences in using computers for data processing; based on these foundations, the aim is to generalize these experiences into a book for broader dissemination; even if it does not get published, it will serve as a data processing guide within a smaller scope (e.g., a research group)
   - The manual covers areas including basic computer science (computer organization, operating systems, data structures and algorithms, and computer networks), web scraping, data cleaning, econometrics, and machine learning; the primary focus is currently on the first two sections
   - It includes specific code implementations using Python and JavaScript to address the needs of various scenarios
