@@ -7,13 +7,16 @@ main:
     url: "/#-educations"
 
   - title: "Publications"
-    url: "/#-publications"
-
+    url: "/#-lw"
+    
+  - title: "Working Papers"
+    url: "/#-wp"
+    
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-har"
 
-  - title: "Conferences"
-    url: "/#-conferences"
+  - title: "CV"
+    url: "/#-cvcv"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
