@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="font-size:17px;">我现在就读于中国人民大学农业与农村发展学院农村发展专业，师从[马九杰](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/299c34878e4d4d5d8b5878fdd743df0d.htm)教授</span>   
+<span style="font-size:17px;">I am presently pursuing a master degree in Rural Development at the School of Agricultural Economics and Rural Development, Renmin University of China, under the supervision of [Professor Jiujie Ma](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/299c34878e4d4d5d8b5878fdd743df0d.htm)</span>   
 <br>
 <br>
  <!-- 我已经发表 20+ 篇学术论文<a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 My research interests focus on the relationship between grassroots institutions and social development under the political context of socialism with Chinese characteristics, including:
 
-Investigating the effectiveness of grassroots institutions in maximizing welfare or at least improving welfare:
-Grassroots organizations and social welfare goals
-Measurement of welfare
-Causal mechanisms by which grassroots institutions impact welfare
-External incentives and institutional changes in the context of institutional failure:
-Heterogeneity of external incentives and optimal incentive combinations
-How to transform external incentives into internal ones to achieve sustainable development
+- Investigating the effectiveness of grassroots institutions in maximizing welfare or at least improving welfare:
+  - Grassroots organizations and social welfare goals
+  - Measurement of welfare
+  - Causal mechanisms by which grassroots institutions impact welfare
+- External incentives and institutional changes in the context of institutional failure:
+  - Heterogeneity of external incentives and optimal incentive combinations
+  - How to transform external incentives into internal ones to achieve sustainable development
 <br>
 Currently, I am primarily exploring **"how to sustainably help communities form relatively effective informal institutions that contribute to welfare improvement."**
 <br>
@@ -47,6 +47,7 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
 # 📝 Publications
 
 - 	JJ Jiao, QL Zhang, YY Wu, **Runze Jiang**, JE Wang. (2021). Change and Influencing Factors of China's Cross-regional Investment Network Structure. Progress in Geography. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpYllT2xqHJRoxXcKTqVmXr4DtD6ltlH0CYLHwYvyjgm5ybiN0I3myBH_17MYu1KmSN1ftxJqErAFzasLI2IVRl5E5TScazfT91ACYsGHIvu6mYIRAMLyZ1H1MBs-DnPZzWetM5qrWazQ==&uniplatform=NZKPT&language=CHS)
+
 <br>
 - 	Chao Wang, **Runze Jiang** et al. (2020). Optimization Strategies for the Beijing Subway Fare System. China Transportation Review. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdrdk-T8GIsXuASAVU4iqRt6ZFgldxcDvkNnq-P4MpAAvTu-ilkeUUBW9tyJwd7-F03_h2QJeyfI7w57IX-5-dedSRwFEZknT9S4DpWXoLVtM6JNqpCfcCpEg3hhInWU56GEOwAOXae-1A==&uniplatform=NZKPT&language=CHS)
 
@@ -59,36 +60,38 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
     - HSR generates both AE and DE, with AE denominating DE
     - DE first occurs, followed by AE
     - Disparities of employment opportunities, wages, and environment have moderating impacts
-  - **Data Sources and Research Methods**：The migration data comes from the 2017 China Migrants Dynamic Survey (CMDS), which includes spatial and temporal information on migration (recording past migration data each year)；constructs a balanced panel data set of 855,560 city pairs (293×292) based on 288 prefecture-level cities and 4 municipalities, covering 10 years from 2007 to 2016; A high-dimensional fixed effects model is used for regression analysis.
-  - **Contribution**：Agglomeration effect (AE) induced by high-speed rail (HSR) is not well disentangled from dispersion effects (DE) in previous studies. By using a high-dimensional fixed effect model, this paper explicitly evaluates the impact of HSR’s AE and DE on migrant labourers at city-pair level. 
+  - **Data Sources and Research Methods**：The migration data comes from the 2017 China Migrants Dynamic Survey (CMDS), which includes spatial and temporal information on migration (recording past migration data each year)；constructs a balanced panel data set of 855,560 city pairs (293×292) based on 288 prefecture-level cities and 4 municipalities, covering 10 years from 2007 to 2016; a high-dimensional fixed effects model is used for regression analysis.
+  - **Contributions**：Agglomeration effect (AE) induced by high-speed rail (HSR) is not well disentangled from dispersion effects (DE) in previous studies. By using a high-dimensional fixed effect model, this paper explicitly evaluates the impact of HSR’s AE and DE on migrant labourers at city-pair level. 
 
 <br>
-- **Runze Jiang**,Jiujie Ma.物质激励能促进规范违背吗？——来自全国治理积分制的证据
-  - **研究结论**：物质激励并不利于人们违背无效规范，基层的组织能力才是主要因素
-  - **数据来源与研究方法**：实地调研58个村庄收集质性资料，形成对积分制运行的基本了解，构建理论模型；利用Python与JS爬取为村平台数据，获取公共行为、基层组织等数据，并形成月度面板，进行回归分析
-  - **研究贡献**
-    - 从客体的角度说，当社会规范失效时采取物质激励促使人们违背无效规范的举措并不一定是有效的，补充了法律经济学中有关改变无效社会规范的研究
-    - 从方法的角度说，在中国基层语境中证明了物质激励对动机挤出
-    - 从主体的角度说，探讨了自治背景下基层组织，特别是拥有实权的党派组织，在公共产品生产中的重要作用
-  - 未来拓展
-    - 下一步研究将采用RCT，共分为四组，第一组是科斯组（市场化交易组），第二组是布鲁诺组（以公易公组），第三组是混合组，第四组是控制组
-    - 第一组与第二组的差在本质上是在论证，公共领域内，到底是市场更优，还是确权前提下的集体主义制度更优；第三组是中国特色社会主义的一个写照
-    - 通过对比不仅能证明公共行为领域内，到底是哪一种资源分配方式更优；往更宏观说，这是在论证不同制度的优劣之处
+- **Runze Jiang**,Jiujie Ma. Can Tangible Incentives Promote Norm Violations? Evidence from China's National Point System for Governance 
+  - **Conclusions**：Material incentives do not necessarily encourage people to violate ineffective norms; the organizational capacity at the grassroots level is the primary factor. 
+  - **Data Sources and Research Methods**
+    - Through field research in 58 villages, qualitative data was collected to understand the basic operation of the point system and to construct a theoretical model
+    - Data on public behavior and grassroots organizations was obtained using Python and JavaScript to scrape the WeVillage platform, forming a monthly panel for regression analysis
+  - **Contributions**
+    - From an objective perspective, this paper adds to the literature in law and economics by showing that using tangible incentives to encourage people to violate ineffective social norms may not be effective
+    - From the perspective of the method, this paper demonstrates the motivational crowding-out effect within the context of China's grassroots governance
+    - From the perspective of the subject, this paper explores the significant role of grassroots organizations, particularly authoritative party organizations, in influencing public behavior through tangible incentives
+  - **Research Agenda**
+    - The next phase of the study will employ a Randomized Controlled Trial (RCT), dividing subjects into four groups: the Coase Group (market), the Bruno Group (public-to-public exchange), the Mixed Group, and the Control Group
+    - The fundamental difference between the first and second groups is to argue whether the market or a collectivist system under property rights is superior in the public domain; the Mixed Group reflects the characteristics of socialism with Chinese characteristics
+    - This comparison will not only demonstrate which resource allocation method is superior in the field of public behavior but also, on a more macro level, argue the merits and drawbacks of different systems
    
 <br>
-- **Runze Jiang**.浅尝辄止: 社会科学研究的数据处理手册
-  - 写作本手册的初衷是陈述对计算机的简约理解，记录在社科研究中进行数据处理的过程，总结运用计算机处理数据的经验，在此基础上形成一般化的经验并成书推广；就算最终无法出版成书，本书也能成为小范围内（例如一个师门）数据处理的指导手册
-  - 涉及领域包括基本的计算机科学（计算机组成原理，操作系统，数据结构与算法及计算机网络）；网络爬虫；数据清洗；计量经济学；机器学习。目前主要在撰写前两部分
-  - 运用Python与JavaScript实现上述不同场景需求的具体代码
+- **Runze Jiang**.A Taste: A No-frills Data Processing Manual for Social Science Research
+  - The initial intent behind writing this manual is to provide a simplified understanding of computers, document the data processing procedures in social science research, and summarize experiences in using computers for data processing; based on these foundations, the aim is to generalize these experiences into a book for broader dissemination; even if it does not get published, it will serve as a data processing guide within a smaller scope (e.g., a research group)
+  - The manual covers areas including basic computer science (computer organization, operating systems, data structures and algorithms, and computer networks), web scraping, data cleaning, econometrics, and machine learning; the primary focus is currently on the first two sections
+  - It includes specific code implementations using Python and JavaScript to address the needs of various scenarios
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- *2023.06-2024.06*  &nbsp;&nbsp;中国人民大学农业与农村发展学院研究生会及学术部主席
-- *2023.10*    &nbsp;&nbsp;中国人民大学农业与农村发展学院 二等学业奖学金
-- *2022.10*    &nbsp;&nbsp;中国人民大学农业与农村发展学院 二等学业奖学金
-- *2021.04*    &nbsp;&nbsp;第七届“中国外运杯”全国大学生物流设计大赛 全国二等奖
-- *2021.04*    &nbsp;&nbsp;“正大杯”第十一届全国大学生市场调查与分析大赛 全国三等奖
+# 🏅 Honors and Rewards
+- *2023.06-2024.06*  &nbsp;&nbsp;School of Agricultural Economics and Rural Development, Renmin University of China &nbsp;&nbsp;President of the Graduate Student Union and Academic Department
+- *2023.10*    &nbsp;&nbsp;School of Agricultural Economics and Rural Development, Renmin University of China &nbsp;&nbsp; Second-Class Academic Scholarship
+- *2022.10*    &nbsp;&nbsp;School of Agricultural Economics and Rural Development, Renmin University of China &nbsp;&nbsp; Second-Class Academic Scholarship
+- *2021.04*    &nbsp;&nbsp;7th China National Logistics Design Competition &nbsp;&nbsp; National Second Prize
+- *2021.04*    &nbsp;&nbsp;11th "Zhengda Cup" National College Student Market Survey and Analysis Competition   &nbsp;&nbsp; National Third Prize
 
 <span class='anchor' id='-grjl'></span>
 
