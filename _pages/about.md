@@ -62,12 +62,15 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
     - HSR generates both AE and DE, with AE denominating DE
     - DE first occurs, followed by AE
     - Disparities of employment opportunities, wages, and environment have moderating impacts
-  - **Data Sources and Research Methods**：The migration data comes from the 2017 China Migrants Dynamic Survey (CMDS), which includes spatial and temporal information on migration (recording past migration data each year)；constructs a balanced panel data set of 855,560 city pairs (293×292) based on 288 prefecture-level cities and 4 municipalities, covering 10 years from 2007 to 2016; a high-dimensional fixed effects model is used for regression analysis.
-  - **Contributions**：Agglomeration effect (AE) induced by high-speed rail (HSR) is not well disentangled from dispersion effects (DE) in previous studies. By using a high-dimensional fixed effect model, this paper explicitly evaluates the impact of HSR’s AE and DE on migrant labourers at city-pair level. 
+  - **Data Sources and Research Methods**
+    - Ulilize the migration data coming from the 2017 China Migrants Dynamic Survey (CMDS), which includes spatial and temporal information on migration (recording past migration data each year)
+    - Construct a balanced panel data set of 855,560 city pairs (293×292) based on 288 prefecture-level cities and 4 municipalities, covering 10 years from 2007 to 2016
+    - Employee a high-dimensional fixed effects model for the regression analysis
+  - **Contributions**：Agglomeration effect (AE) induced by high-speed rail (HSR) is not well disentangled from dispersion effects (DE) in previous studies, this paper explicitly evaluates the impact of HSR’s AE and DE on migrant labourers at city-pair level by using a high-dimensional fixed effect model
 
 <br>
 - **Runze Jiang**,Jiujie Ma. Can Tangible Incentives Promote Norm Violations? Evidence from China's National Point System for Governance 
-  - **Conclusions**：Material incentives do not necessarily encourage people to violate ineffective norms; the organizational capacity at the grassroots level is the primary factor. 
+  - **Conclusions**：Material incentives do not necessarily encourage people to violate ineffective norms while the organizational capacity at the grassroots level is the primary factor
   - **Data Sources and Research Methods**
     - Through field research in 58 villages, qualitative data was collected to understand the basic operation of the point system and to construct a theoretical model
     - Data on public behavior and grassroots organizations was obtained using Python and JavaScript to scrape the WeVillage platform, forming a monthly panel for regression analysis
