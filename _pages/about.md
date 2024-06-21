@@ -40,6 +40,7 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
 # 🎓 Education
 - *2022.09 - 2025.06(expected)*, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/Renmin_University_of_China_logo.svg" width="21pt"></a> Renmin University of China, School of Agricultural Economics and Rural Development, M.A., in Rural Development
 - *2018.09 - 2022.06*, <a href="https://www.bjtu.edu.cn/"><img class="svg" src="/BJTU_emblem.svg" width="21pt"></a> Beijing Jiaotong University, School of Economics and Management, B.A., in Economics
+
 <br>
 
 <span class='anchor' id='-lw'></span>
