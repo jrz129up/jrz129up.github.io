@@ -57,23 +57,21 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
 
 # Working Papers
 
-- QL Zhang, **Runze Jiang**, JJ Jiao. Agglomeration and Dispersion Effects of High-speed Rail: A New Perspective of Intercity Labour Migration from China
-  - **Conclusions**
-    - HSR generates both AE and DE, with AE denominating DE
-    - DE first occurs, followed by AE
-    - Disparities of employment opportunities, wages, and environment have moderating impacts
+- JJ Jiao, QL Zhang, **RZ Jiang**, GW Lv. Does High-Speed Rail Contribute to Cross-boundary Agglomeration of Migrant Workers? Evidence from China
   - **Data Sources and Research Methods**
-    - Ulilize the migration data coming from the 2017 China Migrants Dynamic Survey (CMDS), which includes spatial and temporal information on migration (recording past migration data each year)
-    - Construct a balanced panel data set of 855,560 city pairs (293×292) based on 288 prefecture-level cities and 4 municipalities, covering 10 years from 2007 to 2016
+    - Propose a refined theoretical framework that incorporates HSR as a critical cross-boundary channel within the traditional push-pull migration paradigm
     - Employee a high-dimensional fixed effects model for the regression analysis
+    - Ulilize the migration data coming from the 2017 China Migrants Dynamic Survey (CMDS), which includes spatial and temporal information on migration (recording past migration data each year); Construct a balanced panel data set of 855,560 city pairs (293×292) based on 288 prefecture-level cities and 4 municipalities, covering 10 years from 2007 to 2016
+  - **Conclusions**
+    - By examined the effects of HSR on the number of migrant workers, we discovered that, with the exception of  the nature boundaries like the Hu Huanyong Line and Qinling-Huaihe Line, HSR produces significant cross-boundary agglomeration effects concerning the administrative and economic boundaries
+    - Borrow size effects from nearby cities have moderating impacts on cross-boundary agglomeration effects of HSR on migrant workers
   - **Contributions**：Agglomeration effect (AE) induced by high-speed rail (HSR) is not well disentangled from dispersion effects (DE) in previous studies, this paper explicitly evaluates the impact of HSR’s AE and DE on migrant labourers at city-pair level by using a high-dimensional fixed effect model
-
 <br>
-- **Runze Jiang**,Jiujie Ma. Can Tangible Incentives Promote Norm Violations? Evidence from China's National Point System for Governance 
-  - **Conclusions**：Material incentives do not necessarily encourage people to violate ineffective norms while the organizational capacity at the grassroots level is the primary factor
+- **Runze Jiang**,Jiujie Ma. Can Tangible Incentives Promote Norm Violations? Evidence from China's National Point System for Governance
   - **Data Sources and Research Methods**
     - Through field research in 58 villages, qualitative data was collected to understand the basic operation of the point system and to construct a theoretical model
     - Data on public behavior and grassroots organizations was obtained using Python and JavaScript to scrape the WeVillage platform, forming a monthly panel for regression analysis
+  - **Conclusions**：Material incentives do not necessarily encourage people to violate ineffective norms while the organizational capacity at the grassroots level is the primary factor
   - **Contributions**
     - From an objective perspective, this paper adds to the literature in law and economics by showing that using tangible incentives to encourage people to violate ineffective social norms may not be effective
     - From the perspective of the method, this paper demonstrates the motivational crowding-out effect within the context of China's grassroots governance
@@ -82,7 +80,6 @@ Currently, I am primarily exploring **"how to sustainably help communities form 
     - The next phase of the study will employ a Randomized Controlled Trial (RCT), dividing subjects into four groups: the Coase Group (market), the Bruno Group (public-to-public exchange), the Mixed Group, and the Control Group
     - The fundamental difference between the first and second groups is to argue whether the market or a collectivist system under property rights is superior in the public domain; the Mixed Group reflects the characteristics of socialism with Chinese characteristics
     - This comparison will not only demonstrate which resource allocation method is superior in the field of public behavior but also, on a more macro level, argue the merits and drawbacks of different systems
-   
 <br>
 - **Runze Jiang**. A Taste: A No-frills Data Processing Manual for Social Science Research
   - The initial intent behind writing this manual is to provide a simplified understanding of computers, document the data processing procedures in social science research, and summarize experiences in using computers for data processing; based on these foundations, the aim is to generalize these experiences into a book for broader dissemination; even if it does not get published, it will serve as a data processing guide within a smaller scope (e.g., a research group)
